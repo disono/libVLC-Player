@@ -1,1 +1,2 @@
 include ':app', ':libvlc', ':disonoVLC'
+rootProject.name = 'com.github.libVLC-Player'
